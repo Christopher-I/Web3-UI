@@ -4,6 +4,6 @@
 
 ## Features
 
-    ### TypeScript compatible.
-    ### Lightweight and blazing fast.
-    ### Less code.
+    - TypeScript compatible.
+    - Lightweight and blazing fast.
+    - Less code.
