@@ -1,6 +1,6 @@
 ![linkedin_banner_image_2](https://user-images.githubusercontent.com/44122952/205468622-3ac05537-d620-4c83-9393-ff16d78f0489.png)
 
-### Blaz!ing fast, modular and accessible component library for web3 products.
+#### Blaz!ing fast, modular and accessible component library for web3 products.
 
 ## Features
 
@@ -12,27 +12,27 @@
 
 ## Components
 
-### Buttons
+#### Buttons
 
-### Icons
+#### Icons
 
 #### Cards
 
     - NFT Cards
     - Credit Cards
 
-### Progress bar
+#### Progress bar
 
     - Linear progress bar.
     - Circular progress bar.
 
-### Amount and Percentage
+#### Amount and Percentage
 
     - Horizontal
     - Linear
 
-### Transactions
+#### Transactions
 
-### Calculator
+#### Calculator
 
-### Convert/Trade Dropdown
+#### Convert/Trade Dropdown
