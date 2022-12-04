@@ -8,24 +8,13 @@
     - Lightweight and blazing fast.
     - Less code.
     - Optional design system careful crafted using UX design principles for Web and Mobile.
+    - Built using Atomic design principles.
 
 ## Components
 
 ### Buttons
 
-    - Buy
-    - Sell
-    - Trade
-    - Deposit
-    - Default
-
 ### Icons
-
-    - Buy
-    - Sell
-    - Trade
-    - Deposit
-    - Default
 
 ### Cards
 
