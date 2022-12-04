@@ -12,27 +12,27 @@
 
 ## Components
 
-#### Buttons
+### Buttons
 
-#### Icons
+### Icons
 
-#### Cards
+### Cards
 
     - NFT Cards
     - Credit Cards
 
-#### Progress bar
+### Progress bar
 
     - Linear progress bar.
     - Circular progress bar.
 
-#### Amount and Percentage
+### Amount and Percentage
 
     - Horizontal
     - Linear
 
-#### Transactions
+### Transactions
 
-#### Calculator
+### Calculator
 
-#### Convert/Trade Dropdown
+### Convert/Trade Dropdown
