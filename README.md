@@ -1,5 +1,3 @@
-# Web3-UI
-
 ![linkedin_banner_image_2](https://user-images.githubusercontent.com/44122952/205468622-3ac05537-d620-4c83-9393-ff16d78f0489.png)
 
 ### Blaz!ing fast, modular and accessible component library for web3 products.
